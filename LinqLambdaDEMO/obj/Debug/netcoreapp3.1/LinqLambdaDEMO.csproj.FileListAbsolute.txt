@@ -1,0 +1,13 @@
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\bin\Debug\netcoreapp3.1\LinqLambdaDEMO.exe
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\bin\Debug\netcoreapp3.1\LinqLambdaDEMO.deps.json
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\bin\Debug\netcoreapp3.1\LinqLambdaDEMO.runtimeconfig.json
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\bin\Debug\netcoreapp3.1\LinqLambdaDEMO.runtimeconfig.dev.json
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\bin\Debug\netcoreapp3.1\LinqLambdaDEMO.dll
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\bin\Debug\netcoreapp3.1\LinqLambdaDEMO.pdb
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\obj\Debug\netcoreapp3.1\LinqLambdaDEMO.csprojAssemblyReference.cache
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\obj\Debug\netcoreapp3.1\LinqLambdaDEMO.AssemblyInfoInputs.cache
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\obj\Debug\netcoreapp3.1\LinqLambdaDEMO.AssemblyInfo.cs
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\obj\Debug\netcoreapp3.1\LinqLambdaDEMO.csproj.CoreCompileInputs.cache
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\obj\Debug\netcoreapp3.1\LinqLambdaDEMO.dll
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\obj\Debug\netcoreapp3.1\LinqLambdaDEMO.pdb
+F:\Documentos\Projetos\C#\LinqLambdaDEMO\LinqLambdaDEMO\obj\Debug\netcoreapp3.1\LinqLambdaDEMO.genruntimeconfig.cache
